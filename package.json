@@ -1,0 +1,8 @@
+{
+  "name": "chatApp",
+  "version": "0.0.1",
+  "dependencies":{
+    "typescript": "mhegazy/typescript#v1.5-beta2",
+    "systemjs": "0.17.1"
+  }
+}
